@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! <br/>
-I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQL, Odoo, SAP and double click </b> for business solutions. Currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Egypt.</p>
+I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQL, Odoo, and SAP</b> for enterprise-grade business solutions. Currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Egypt.</p>
 
 <h3>Things I work with</h3>
 <p>
@@ -14,46 +14,54 @@ I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQ
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<h3>Open Source Projects</h3>
+<h3>High-Impact ERP Projects</h3>
 <table>
   <thead align="center">
     <tr>
       <td><b>🎁 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 PRs</b></td>
+      <td><b>📖 Description</b></td>
+      <td><b>🛠 Tech Stack</b></td>
+      <td><b>🌟 Stars</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="#"><b>ERP Inventory Module</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/badge/Forks-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/badge/Issues-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/badge/PRs-0?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="#"><b>Global Supply Chain ERP</b></a></td>
+      <td>Fully integrated ERP system for multi-country supply chain, automating procurement, inventory, and logistics.</td>
+      <td>Odoo, Python, PostgreSQL, Docker</td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-150?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="#"><b>Sales & Reporting ERP</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/badge/Forks-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/badge/Issues-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/badge/PRs-0?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="#"><b>Enterprise HR & Payroll ERP</b></a></td>
+      <td>HR management and payroll automation for 5000+ employees across multiple branches.</td>
+      <td>SAP, Python, SQL</td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-120?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="#"><b>ERP HR Management</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/badge/Forks-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/badge/Issues-0?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/badge/PRs-0?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="#"><b>Financial Reporting & Analytics</b></a></td>
+      <td>ERP-integrated analytics platform for real-time financial reporting, dashboards, and KPI tracking.</td>
+      <td>Python, Odoo, Power BI, SQL</td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-100?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>Retail Inventory & POS ERP</b></a></td>
+      <td>Retail ERP system integrating inventory, POS, and CRM to improve sales and stock visibility.</td>
+      <td>Odoo, Python, PostgreSQL, Docker</td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/Stars-90?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
+<h3>GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/yourusername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/ihab-alghmrawi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:youremail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
