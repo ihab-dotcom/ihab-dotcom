@@ -65,4 +65,4 @@ I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQ
 
 <h3>Where to Find Me</h3>
 <p>
-  <a href="https://github.com/yourusername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-bad_
+  <a href="https://github.com/ihab-dotcom" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-bad_
