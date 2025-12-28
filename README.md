@@ -1,9 +1,14 @@
+<!-- Cover Photo Section -->
+<p align="center">
+  <img src="https://your-cover-photo-link.com/cover.jpg" alt="Cover Photo" width="100%" />
+</p>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/>
+<p>Welcome to my GitHub page! <br/>
 I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQL, Odoo, and SAP</b> for enterprise-grade business solutions. Currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Egypt.</p>
 
-<h3>Things I work with</h3>
+<h3>Technologies I Work With</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0064a5?style=flat-square&logo=mysql&logoColor=white" />
@@ -58,11 +63,6 @@ I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
 
-<h3>Where to find me</h3>
+<h3>Where to Find Me</h3>
 <p>
-  <a href="https://github.com/yourusername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:youremail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">This <i>README</i> can be updated automatically using GitHub Actions to keep your projects and stats always fresh.</p>
+  <a href="https://github.com/yourusername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-bad_
