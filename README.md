@@ -64,12 +64,6 @@ I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQ
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihab-dotcom&show_icons=true&count_private=true&theme=radical" />
-</p>
----
-
 ## 📫 Where to Find Me
 <p align="center">
   <a href="https://github.com/ihab-dotcom" target="_blank">
