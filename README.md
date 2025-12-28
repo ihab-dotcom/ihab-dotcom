@@ -74,17 +74,11 @@ I'm <b>Ihab Alghmrawi</b>, an <b>ERP Developer</b> specializing in <b>Python, SQ
 
 ## 📫 Where to Find Me
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/ihab-dotcom" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="50"/>
   </a> 
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/ihab-alghmrawi-08680b2a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
-  </a> 
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="50"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
 </p>
 
