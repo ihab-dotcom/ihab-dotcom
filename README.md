@@ -1,6 +1,6 @@
 <!-- Cover Photo Section -->
 <p align="center">
-  <img src="https://your-cover-photo-link.com/cover.jpg" alt="Cover Photo" width="100%" />
+  <img src="https://i.postimg.cc/V6bT3wQb/1766176415706.jpg" alt="Cover Photo" width="100%" />
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
